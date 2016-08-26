@@ -1,6 +1,11 @@
 name: Angel Website
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c16dbbbc-9c5f-4fe4-8e15-5a244594e007.jpg
 layout_spectrum: 0.21249738917686045
 typography_spectrum: 0.5225471735466272
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#B9121B'
@@ -13,3 +18,9 @@ color:
   saturation: 0.8566256386693567
   rhythmicContrast: 0.898892821976915
 title: A blog about anything
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
